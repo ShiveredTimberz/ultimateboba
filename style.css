@@ -1,0 +1,81 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+.logo{
+    width: 770px;
+    height: 470px;
+    position: absolute;
+    z-index:1;
+    left: 20%;
+    bottom: 45%;
+}
+.sealslap{
+    width: 450px;
+    height:250px;
+    position: absolute;
+    left: 60%;
+    top: 20%;
+    z-index:2;
+
+}
+h1{
+    font-family: 
+    'Arial';
+}
+.intro{
+    position:absolute;
+    top:50%;
+}
+
+.tramp{
+    position:absolute;
+    top:90%;
+}
+
+.oceansunset{
+    position:absolute;
+    top:190%;
+}
+.fish{
+    height:350px;
+    width:550px;
+}
+.scrapbook{
+    position:absolute;
+    top:130%;
+    
+}
+.craft{
+    width: 550px;
+    height: 350px;
+    position: absolute;
+    left:35%;
+    top: 120%
+    
+}
+
+body{
+    
+    font-family: 'Comic Sans MS', 'Arial';
+    font-size:25px;
+    text-align: center;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIEiARmARwrMgpEiEeY_AHYBrSyUfltNpxBIg7o6L8F9bXwQ_G-KKBgP4&s=10');
+
+    color: rgb(0, 97, 133)
+
+}
+p{
+    text-align: left;
+}
+.sealflag{
+    position:absolute;
+    right:75%;
+    width:290px;
+}
+
+.SIB{
+    width:290px;
+}
+
+ 
