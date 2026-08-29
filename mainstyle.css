@@ -1,4 +1,13 @@
 body{
+    position: absolute;
+    font-family: "Comic Sans MS";
+    left:30%;
     background-image: url("images/d3l6i50-12ad4899-93d5-4445-a4dc-570cd5b26d9a.jpg");
 
+}
+.mwow{
+    position:absolute;
+    width: 200px;
+    height: 200px;
+    left:120%;
 }
